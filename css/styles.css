@@ -12,6 +12,15 @@ p {
   color: #8f8f8f;
 }
 
+.colored-section {
+  background-color: #FF4C68;
+  color: #FFF;
+}
+
+.white-section {
+  background-color: #FFF;
+}
+
 /* Headings */
 .big-heading {
   /* Montserrat Black */
@@ -54,11 +63,6 @@ p {
 }
 
 /* Title Section */
-#title {
-  background-color: #FF4C68;
-  color: #FFF;
-}
-
 #title .container-fluid {
   padding: 3% 15% 7%;
   text-align: left;
@@ -85,7 +89,6 @@ p {
 
 /* Features Section */
 #features {
-  background-color: #FFF;
   position: relative;
 }
 
@@ -106,7 +109,6 @@ p {
 /* Testimonials Section */
 #testimonials {
   background-color: #EF8172;
-  color: #FFF;
 }
 
 .testimonial-text {
@@ -145,11 +147,6 @@ p {
 }
 
 /* Call to Action Section */
-#cta {
-  background-color: #FF4C68;
-  color: #FFF;
-}
-
 .closing {
   font-weight: 900;
   font-size: 3.5rem;
